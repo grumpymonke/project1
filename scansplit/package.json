@@ -1,0 +1,13 @@
+{
+  "name": "project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix scansplit\" \"npm start --prefix backend\""
+  },
+  "devDependencies": {
+    "concurrently": "^6.5.1"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

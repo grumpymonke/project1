@@ -1,0 +1,8 @@
+for react
+> npm install vite
+
+for backend
+> npm install express 
+
+for both
+> npm install concurrently
