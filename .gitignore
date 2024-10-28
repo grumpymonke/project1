@@ -1,3 +1,4 @@
-# Ignore node_modules in all folders
-**/node_modules
-
+# Ignore node_modules in backend and frontend only
+backend/node_modules
+frontend/node_modules
+scansplit/node_modules
