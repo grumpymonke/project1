@@ -16,4 +16,4 @@ to run both front and backend
 
 > npm start 
 or
- > npm run dev gg
+ > npm run dev 
