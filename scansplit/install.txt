@@ -1,0 +1,5 @@
+react js node
+> npm install vite 
+
+backend
+>
