@@ -6,3 +6,12 @@ for backend
 
 for both
 > npm install concurrently --save-dev
+
+
+to run both front and backend
+
+> cd scanslit 
+
+> npm start 
+or
+ > npm run dev 
