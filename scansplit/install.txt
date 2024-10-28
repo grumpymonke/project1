@@ -13,7 +13,7 @@ for both
 to run both front and backend
 
 > cd scanslit 
-dkfjkbfj
+
 > npm start 
 or
  > npm run dev 
