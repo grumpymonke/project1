@@ -1,3 +1,5 @@
+(node_modules unte lite)
+
 for frontend
 > npm install vite 
 
