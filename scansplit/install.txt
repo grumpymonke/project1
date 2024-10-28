@@ -1,5 +1,8 @@
-react js node
+for frontend
 > npm install vite 
 
-backend
->
+for backend
+> npm install express
+
+for both
+> npm install concurrently --save-dev
